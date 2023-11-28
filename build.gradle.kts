@@ -1,5 +1,6 @@
 plugins {
     java
+    id("org.sonarqube") version "latest.release"
 }
 
 repositories {
